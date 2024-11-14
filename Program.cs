@@ -36,7 +36,7 @@ class Program
         }
     }
 
-        static void ProcessFile(string inputFilePath, string outputDirectory,string processedDirectory)
+    static void ProcessFile(string inputFilePath, string outputDirectory,string processedDirectory)
     {
         try
         {
